@@ -1,9 +1,8 @@
 class Speedtest < Formula
   desc "Ookla Speedtest"
   homepage "https://www.speedtest.net/"
-  url "https://bintray.com/ookla/download/download_file?file_path=ookla-speedtest-0.10.0.8-1.eba90b3-macosx.tgz"
-  sha256 "f431f706f4bca113e366f902527dd7da2c6c887a04704b11fa17b3993e2e16ea"
-  sha256 "0a56b291d0af15cd4aff906209bb75ee71550812d49f506e32f931d806286dca"
+  url "https://bintray.com/ookla/download/download_file?file_path=ookla-speedtest-0.10.0.20-1.173ad8d-macosx.tgz"
+  sha256 "8c102b5b2aa3b6333bf8eb4bf01db6bf2571582ad67b61876c64d3a1757ed217"
 
   def install
     bin.install "./speedtest"
