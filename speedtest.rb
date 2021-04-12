@@ -1,7 +1,7 @@
 class Speedtest < Formula
   desc "Ookla Speedtest"
   homepage "https://speedtest.net/apps/cli"
-  url "https://bintray.com/ookla/download/download_file?file_path=ookla-speedtest-1.0.0-macosx.tgz"
+  url "https://install.speedtest.net/app/cli/ookla-speedtest-1.0.0-macosx.tgz"
   sha256 "8d0af8a81e668fbf04b7676f173016976131877e9fbdcd0a396d4e6b70a5e8f4"
 
   bottle :unneeded
